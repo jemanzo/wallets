@@ -1,0 +1,6 @@
+**/node_modules/**
+dist/
+e2e/__cases__/
+e2e/__workdir_synlink__/
+coverage/
+docs/
